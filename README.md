@@ -11,8 +11,8 @@ Bird Hunt is an interactive and entertaining game developed using Unity and C#. 
 - **Robust Gameplay Mechanics:** Written in C# for reliable and efficient performance.
 
 ## Screenshots
-![Gameplay Screenshot](C:\Users\ADHITHYA\OneDrive\圖片\Screenshots\duck1.png)
-![Gameplay Screenshot](C:\Users\ADHITHYA\OneDrive\圖片\Screenshots\duck2.png)
+![Gameplay Screenshot](duck1.png)
+![Gameplay Screenshot](duck2.png)
 
 ## Installation
 1. Clone the repository:
